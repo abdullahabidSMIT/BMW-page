@@ -1,0 +1,60 @@
+*{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    background-image: url(/m\ stripes.jpg);
+    background-repeat: no-repeat;
+    
+}
+.logo{
+    background-color:rgb(2, 2, 31);
+    text-align: center;
+    font-size: xxx-large;
+    height: 95px;
+    border: solid 2px;
+    border-radius: 15px;
+    padding: 20px;
+    font-family: Copperplate, "Copperplate Gothic Light";
+}
+#logo1{
+    color:rgb(28, 154, 217);
+    margin-right: 10px;
+}
+#logo2{
+    color:rgb(12, 53, 94);
+}
+#logo3{
+    color:rgb(158, 14, 14);
+    margin-left: 10px;
+}
+.mlogo{
+
+    margin-left: 30px;
+    margin-top: 150px;
+    display: block;
+    border: 8px solid #1d3a8a;
+    border-radius: 10px;
+}
+#M5E39{
+    color: aliceblue;
+    width: 230px;
+    margin-top: 20px;
+    display: flex;
+    border-top: 4px solid seashell;
+    text-align: center;
+    padding: 10px;
+    font-size: large ;
+    font-family: Copperplate, "Copperplate Gothic Light" ;  
+    margin-left: 60px;
+}
+#angeleyes{
+        display: block;
+        margin-top: 40px;    
+} 
+#BMW{
+    margin-top: 160px;
+}
